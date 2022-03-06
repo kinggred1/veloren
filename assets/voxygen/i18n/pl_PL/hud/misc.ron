@@ -7,6 +7,7 @@
         "hud.you_died": "Zginąłeś",
         "hud.waypoint_saved": "Punkt orientacyjny zachowany",
         "hud.sp_arrow_txt": "PR", /// punkty rozwoju
+        "hud.inventory_full": "Ekwipunek pełen",
 
         "hud.press_key_to_show_keybindings_fmt": "[{key}] przypisania klawiszy",
         "hud.press_key_to_toggle_lantern_fmt": "[{key}] latarnia",
@@ -43,6 +44,16 @@ Kiedy poczujesz się gotów, spróbuj zdobyć lepszy ekwipunek z wielu wyzwań r
         "hud.free_look_indicator": "Tryb rozglądania aktywny. Naciśnij {key} by wyłączyć.",
         "hud.camera_clamp_indicator": "Pionowa blokada kamery aktywna. Naciśnij {key} by wyłączyć.",
         "hud.auto_walk_indicator": "Automatyczny lot/chód aktywny",
+        
+        "hud.collect": "Zbierz",
+        "hud.pick_up": "Podnieś",
+        "hud.open": "Otwórz",
+        "hud.use": "Użyj",
+        "hud.mine": "Wykop",
+        "hud.talk": "Rozmawiaj",
+        "hud.trade": "Handluj",
+        "hud.mount": "Dosiądź",
+        "hud.sit": "Usiądź",
     },
 
 
